@@ -6,3 +6,4 @@ It has two files in the **Code** tab:
 - **.gitignore** is a file that specifies which files and directories must be ignored by Git
 
 Some useful information
+Something else
